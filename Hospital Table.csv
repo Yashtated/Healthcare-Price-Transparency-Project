@@ -1,0 +1,20 @@
+HospitalID,HospitalName,UpdatedOn,Version,Region,HospitalAddress,LicenseNumber,ZipCode
+1,Memorial Hermann Greater Heights Hospital,2024-10-29,3.0.0,Houston,1635 North Loop West Houston TX 77008,172,77008
+2,Memorial Hermann Memorial City Medical Center,2024-11-01,3.0.0,Houston,921 Gessner Road Houston TX 77024,302,77024
+3,Memorial Hermann Southwest Hospital,2024-11-01,3.0.0,Houston,7600 Beechnut houston TX 77074,407,77074
+4,Bethesda North Hospital,2025-01-01,2.0.0,Cincinnati,10500 Montgomery Road Cincinnati OH 45242,1024,45242
+5,Good Samaritan Hospital,2025-01-01,2.0.0,Cincinnati,375 Dixmyth Avenue Cincinnati OH 45220,1191,45220
+6,The Christ Hospital,2024-12-19,2.0.0,Cincinnati,2139 Auburn Ave Cincinnati OH 45249,1187LH,45249
+7,Memorial Hermann The Woodlands Medical Center,2024-10-29,3.0.0,Woodlands,9250 Pinecroft The Woodlands TX 77380,615,77380
+8,Memorial Hermann Sugarland Hospital,2024-12-28,3.0.0,Sugarland,17500 West Grand Parkway South Sugar Land TX 77479,609,77479
+9,Memorial Hermann Southeast Hospital,2024-10-26,3.0.0,Houston,11800 Astoria Boulevard Houston TX 77089,119,77089
+10,University of Cincinnati Medical Center,2024-10-01,1.0.0,Cincinnati,"3188 Bellevue Avenue Cincinnati, OH 45219-2316",258,45219
+11,HCA Houston Healthcare Conroe,2024-10-01,2.2.0,Houston,"504 Medical Center Boulevard, Conroe, TX, 77304",13533,77304
+12,Texas Childrens Hospital The Woodlands,2025-01-01,2.0.0,Woodlands,"17600 Interstate 45 South, The Woodlands, TX 77384",117,77384
+13,St Lukes The Woodlands Hospital,2024-11-25,2.0.0,Woodlands,"17200 St Lukes Way, The Woodlands, TX 77384",7931,77384
+14,St Lukes Sugarland Hospital,2024-11-25,2.0.0,Sugarland,"1317 Lake Pointe Parkway, Sugar Land, TX 77478",100134,77478
+15,Memorial Hermann Surgical Hospital,2025-01-31,2.2.0,Sugarland,"16906 Southwest Fwy, Sugar Land, TX 77479",100161,77479
+16,St Lukes Vintage Hospital,2024-11-25,2.0.0,Houston,"20171 Chasewood Park Drive, Houston TX 77070",100235,77070
+17,St Lukes Lakeside Hospital,2024-11-25,2.0.0,Woodlands,17400 St Lukes Way The Woodlands TX 77384,100035,77384
+18,Baylor St Lukes Medical Center,2024-11-25,2.2.0,Houston,"1101 Bates Avenue, Houston, TX 77030",118,77030
+19,Mercy Health Anderson Hospital,2025-01-01,2.0.0,Cincinnati,"7500 State Rd., Cincinnati, OH 45255",0,45255

@@ -1,0 +1,844 @@
+PlanID,PlanName,PayerID
+1,Degree Benefits Tshbp Mcr,1
+2,Commercial Ip Op Poc,2
+3,Managed Medicare Pom,2
+4,Commercial Ip Op Poc,3
+5,Ag Administrators,4
+6,Amerigroup Mmp Mcr,5
+7,Commercial Poc,5
+8,Managed Medicare Pom,6
+9,Aetna Aco Hmo,7
+10,Aetna Multitier Posepo,7
+11,Aetna Pos,7
+12,Aetna Ppo,7
+13,Commercial Ip Op Poc,7
+14,Managed Medicare Pom,7
+15,Commercial Ip Op Poc,8
+16,Commercial Ip Op Poc,9
+17,Bcbs Blue Advantage Hmo Bav,10
+18,Bcbs High Performance Network Hpn,10
+19,Bcbs Hmo Blue Essentials,10
+20,Bcbs Hmo Blue Premier,10
+21,Bcbs My Blue Health Mbh,10
+22,Bcbs Par Traditional,10
+23,Bcbs Ppopos,10
+24,Managed Medicare Pom,10
+25,Commercial Ip Op Poc,11
+26,Beech Street Ppo,12
+27,Commercial Ip Op Poc,13
+28,Commercial Ip Op Poc,14
+29,Commercial Ip Op Poc,15
+30,Cigna,16
+31,Cigna Surefit,16
+32,Commercial Ip Op Poc,16
+33,Managed Medicare Pom,16
+34,Commercial Ip Op Poc,17
+35,Commercial Ip Op Poc,18
+36,Commercial Ip Op Poc,19
+37,Commercial Ip Op Poc,20
+38,Coventry Ppo,20
+39,Managed Medicare Pom,20
+40,Employers Health Network,21
+41,Fairos Occunet,22
+42,Managed Medicare Pom,23
+43,Commercial Ip Op Poc,24
+44,Managed Medicare Pom,25
+45,Commercial Ip Op Poc,26
+46,Commercial Ip Op Poc,27
+47,Healthsmart Ppo,27
+48,Uhc Hmo,27
+49,Uhc Ppo,27
+50,Healthcare Highways,28
+51,Healthsmart Ppo,29
+52,Healthsmart Preferred Care Ppo,29
+53,Commercial Ip Op Poc,30
+54,Humana Hmo,30
+55,Humana Hmox,30
+56,Humana Ppo,30
+57,Managed Medicare Pom,30
+58,Imagine Health,31
+59,Commercial Ip Op Poc,32
+60,Kelsey Seybold Pgt Mcr,33
+61,Commercial Ip Op Poc,34
+62,Managed Medicare Pom,34
+63,Kelseycare Ppo,35
+64,Loa Poc Nc,36
+65,Aetna Aco Hmo,37
+66,Memorial Hermann Solutions Non Mhhs Ppo Mhn,37
+67,Memorial Hermann Solutions Ppo Mhu,37
+68,Commercial Ip Op Poc,38
+69,Commercial Ip Op Poc,39
+70,Community Health Mp Exchange Mcr,40
+71,Managed Medicare Pom,40
+72,Commercial Ip Op Poc,41
+73,Managed Medicare Pom,42
+74,Multiplan National Ppo,43
+75,Commercial Ip Op Poc,44
+76,Cigna,45
+77,Commercial Ip Op Poc,45
+78,Commercial Poc,46
+79,Commercial Ip Op Poc,46
+80,Managed Medicare Pom,46
+81,Occunet,47
+82,Oscar Marketplace Mcr,48
+83,Phcs Ppo,49
+84,Commercial Ip Op Poc,50
+85,Commercial Ip Op Poc,51
+86,Commercial Ip Op Poc,52
+87,Commercial Ip Op Poc,53
+88,Commercial Ip Op Poc,54
+89,Commercial Ip Op Poc,55
+90,Commercial Ip Op Poc,56
+91,Tricare,57
+92,Commercial Ip Op Poc,58
+93,Aetna Ppo,59
+94,Cigna,59
+95,Commercial Ip Op Poc,59
+96,Phcs Ppo,59
+97,Uhc Hmo,59
+98,Uhc Ppo,59
+99,Commercial Ip Op Poc,60
+100,Commercial Ip Op Poc,61
+101,Commercial Ip Op Poc,62
+102,Managed Medicare Pom,62
+103,Uhc Hmo,62
+104,Uhc Nexus,62
+105,Uhc Ppo,62
+106,Amerigroup Mmp Mcr,63
+107,Commercial Poc,63
+108,Managed Medicaid Poc,63
+109,Managed Medicare Pom,63
+110,Commercial Ip Op Poc,64
+111,Managed Medicare Pom,65
+112,Aetna Hmo,7
+113,Aetna Multitier Hmo,7
+114,Aetna Cincinnati Preferredplus,7
+115,Medical Mutual Access,66
+116,Medical Mutual All Others,66
+117,Tx Claimsaetna Poscommercial,67
+118,Nalc Health Benefit Plan,68
+119,Ohio Ppo Connect Tpa,69
+120,Golden Rule,70
+121,Oxford,70
+122,Umr All Others,71
+123,Aetna All Others,7
+124,Beh Optumhealth Behavioral,72
+125,Caresource Indiana Medicaid,73
+126,Cigna All Others,16
+127,Cigna C,16
+128,Multiplan Other,74
+129,Medicaid Indiana Anthem,75
+130,Philadelphianew Era Life Insurance,49
+131,Uhc All Savers,76
+132,Uhc Choice Plus,70
+133,Surest Formerly Bind Benefits,77
+134,Uhc Sharedintegrated Svcs,77
+135,Apwu Primary Only,78
+136,Cigna Third Party Administrator Tpa,16
+137,Humana All Other Not Mcr,30
+138,Humana Hmo X,30
+139,Western Southern Medical Mutual,66
+140,Tx Claimsaetna Cin Preferred,67
+141,Uhc Choice Plus Tpa,70
+142,Uhc Medica,70
+143,Uhc Options Ppo,70
+144,Uhc Student Resources,70
+145,Aetna Signature Admin,7
+146,Cdb Medical Mutual,79
+147,Cigna International,16
+148,Geha Aetna Asa,26
+149,Mdwise Healthy Indiana Plan,80
+150,Mdwise Hoosier Healthwise,81
+151,Indiana Mhs Medicaid,82
+152,Ohio Ppo Connect,69
+153,Phcs Other,49
+154,Cdb Tier,83
+155,Oon Cdb No Contract,83
+156,Med Ben Tier,84
+157,Buckeye Ohio Mycaremedicaid,85
+158,Buckeye Allwellwellcare Mcr,86
+159,Uhc Ohio Medicaid,87
+160,Buckeye Advantage Mcr Replacement,86
+161,Ohio Caresource Marketplace Commercial,88
+162,Mycare Ohio Aetna Medicaid,89
+163,Hd Blue Connections Ehp,90
+164,Hpn Hpp Blue Connections Ehp,90
+165,Anthem Medicare Replacement,91
+166,Oon First Health,92
+167,Oon Mercy Health Medical Mutual,66
+168,Oon Medicare Other Replacement,93
+169,Va Ccn Optum,94
+170,Wc Self Insured,95
+171,Wc Us Dept Of Labor Federal Employees,96
+172,Aetna Medicare,97
+173,Indiana Ambetter Mhs,98
+174,Anthem Ky Transition Hmo Pathway,90
+175,Caresource Ohio Dual Advantage,99
+176,Elite Health,100
+177,Medigold Medicare Replacement,101
+178,Oon Uhc Medicaid All Other States,87
+179,Wc Sedgwick Mco,102
+180,Wc Three Hab Plus,103
+181,Ohio Ambetter Buckeye Commercial,98
+182,Anthem Oh Hmo Pathway Pathway X Tiered,90
+183,Miami University Employer Group,90
+184,Cigna Medicare Advantage,104
+185,Oon Medicaid Anthem Ky,105
+186,Passport Molina Ky Mcd,106
+187,Molina Medicare Complete Care,107
+188,Other Medicare Replacement,93
+189,Uhc Oon All Other,70
+190,Wc Promedica Medical Management,108
+191,Wc Sedgwick Selfinsured,102
+192,Wellcare Ohio Medicare,65
+193,Oon Ky Medicaid Aetna Better Health,89
+194,Mycare Aetna Medicare,97
+195,Anthem Blue Cross All Others Not Medicare,90
+196,Anthem Oh Ppo Pathway Tiered,90
+197,Oon Anthem All Others,90
+198,Oon Commercial Other,74
+199,Oon Hosp Only Commercial Other,74
+200,Essence Hmo Advantage Mcr,109
+201,Oon Wellcare Ky Medicaid,110
+202,Medical Mutual Medicare Advantage,111
+203,Oon Molina Marketplace,112
+204,Mycare Ohio Molina Medicare,107
+205,Wc Charles Taylor Tpa,113
+206,Wc Sheakley Unicomp,114
+207,Amerihealth Caritas Oh Medicaid,115
+208,Caresource Ohio Medicaid,73
+209,Anthem Traditional,90
+210,Caresource Oh Medicaid,73
+211,Molina Ohio Medicaid,116
+212,Paramount Ohio Medicaid,117
+213,Mycare Ohio Molina Medicaid,116
+214,Molina Oh Medicaid,116
+215,Humana Oh Medicaid,118
+216,Buckeye Oh Medicaid,85
+475,Bcbs Medicare Supplement,185
+476,Coventry Healthcare Of Il,186
+477,Humana Hmopos,30
+478,Blue Cross Blue Shield In State,185
+479,Coventry Healthcare Of Ga,186
+480,Uhc Individual Exchange,62
+481,Coventry Healthcare Of Ia,186
+482,Coventry Mail Handlers,186
+483,United Healthcare,62
+484,Ccmsi Pgrma,187
+485,Private Health,188
+486,Coventry Rural Carrier Benefit,186
+487,Blue Cross Blue Shield Out Of State,185
+488,Coventry Healthcare Of Momsaktn,186
+489,Coventry Healthcare Of Ne,186
+490,Uhc United Medical Resources,62
+491,Uhc Golden Rule,62
+492,Blue Cross Blue Shield Federal,185
+493,Multiplan,43
+494,La Womens Healthcare,189
+495,Web Tpa,190
+496,Office Of Group Benefits,185
+497,Chitimacha Employee Chp,187
+498,Humana Choice Care Ppo,30
+499,Blue Cross Blue Shield Connect,185
+500,Blue Cross Blue Shield Ochsner,185
+501,Ppo Plus,191
+502,Medishare,188
+503,Cigna Hmo,16
+504,Coventry First Health,186
+505,One Source Administrators,187
+506,Cigna Ppo,16
+507,Humana Medicare Supplement,30
+508,Gilsbar Ppo,192
+509,Coventry,186
+510,Vantage,193
+511,Blue Cross Preferred,185
+512,Degree Ima,187
+513,Beech Street,12
+514,Fmolhs Employees,194
+515,Coventry Health,186
+516,Blue Cross Blue Shield Community Blue,185
+517,Meritain,195
+561,Bcbs Medicare Supplement,207
+562,Coventry Healthcare Of Il,208
+563,Humana Hmopos,30
+564,Blue Cross Blue Shield In State,207
+565,Coventry Healthcare Of Ga,208
+566,Uhc Individual Exchange,62
+567,Coventry Healthcare Of Ia,208
+568,Coventry Mail Handlers,208
+569,United Healthcare,62
+570,Ccmsi Pgrma,209
+571,Private Health,210
+572,Coventry Rural Carrier Benefit,208
+573,Blue Cross Blue Shield Out Of State,207
+574,Coventry Healthcare Of Momsaktn,208
+575,Coventry Healthcare Of Ne,208
+576,Uhc United Medical Resources,62
+577,Uhc Golden Rule,62
+578,Blue Cross Blue Shield Federal,207
+579,Multiplan,43
+580,La Womens Healthcare,211
+581,Web Tpa,212
+582,Office Of Group Benefits,207
+583,Chitimacha Employee Chp,209
+584,Humana Choice Care Ppo,30
+585,Blue Cross Blue Shield Connect,207
+586,Blue Cross Blue Shield Ochsner,207
+587,Ppo Plus,213
+588,Medishare,210
+589,Cigna Hmo,16
+590,Coventry First Health,208
+591,One Source Administrators,209
+592,Cigna Ppo,16
+593,Humana Medicare Supplement,30
+594,Gilsbar Ppo,214
+595,Bcbs Medicare Supplement,218
+596,Coventry,208
+597,Coventry Healthcare Of Il,219
+598,Humana Hmopos,30
+599,Vantage,215
+600,Blue Cross Blue Shield In State,218
+601,Blue Cross Preferred,207
+602,Coventry Healthcare Of Ga,219
+603,Uhc Individual Exchange,62
+604,Degree Ima,209
+605,Coventry Healthcare Of Ia,219
+606,Beech Street,12
+607,Coventry Mail Handlers,219
+608,Fmolhs Employees,216
+609,United Healthcare,62
+610,Ccmsi Pgrma,220
+611,Coventry Health,208
+612,Private Health,221
+613,Blue Cross Blue Shield Community Blue,207
+614,Coventry Rural Carrier Benefit,219
+615,Meritain,217
+616,Blue Cross Blue Shield Out Of State,218
+617,Coventry Healthcare Of Momsaktn,219
+618,Coventry Healthcare Of Ne,219
+619,Uhc United Medical Resources,62
+620,Uhc Golden Rule,62
+621,Blue Cross Blue Shield Federal,218
+622,Multiplan,43
+623,La Womens Healthcare,222
+624,Web Tpa,223
+625,Office Of Group Benefits,218
+626,Chitimacha Employee Chp,220
+627,Humana Choice Care Ppo,30
+628,Blue Cross Blue Shield Connect,218
+629,Blue Cross Blue Shield Ochsner,218
+630,Ppo Plus,224
+631,Medishare,221
+632,Cigna Hmo,16
+633,Coventry First Health,219
+634,One Source Administrators,220
+635,Cigna Ppo,16
+636,Humana Medicare Supplement,30
+637,Gilsbar Ppo,225
+638,Coventry,219
+639,Vantage,226
+640,Blue Cross Preferred,218
+641,Degree Ima,220
+642,Beech Street,12
+643,Fmolhs Employees,227
+644,Coventry Health,219
+645,Blue Cross Blue Shield Community Blue,218
+646,Meritain,228
+647,Aetna Cincinnati Preferred,7
+648,Aetna Hmo Ppo,7
+649,Anthem Hmo Ppo,90
+650,Buckeye Medicaid,229
+651,Geha Uhc,26
+652,Humana Hmo Pos,230
+653,Medicaid Ohio,231
+654,Medical Mutual Hmo Ppo,232
+655,Molina Medicaid,116
+656,Paramount Medicaid,233
+657,Tch Employee Anthem,234
+658,Uhc Community Oh Medicaid,235
+659,Uhc Choice Choice Plus,62
+660,Uhc Options Ppo,62
+661,Umr Uhc Choice Choice Plus,71
+662,Aarp Supplement,2
+663,Aetna Limited Benefit,7
+664,Aetna Network Tpa,7
+665,Oon Aetna Exchange Plan,7
+666,Aetna Better Health Ohiorise Bh,236
+667,Allied Benefits,237
+668,Allied No Contract,237
+669,Anthem Pathway Group Hmo,90
+670,Wellcare Ambetter Ky,238
+671,Caresource In Medicaid,73
+672,Caresource Dual Advantage,99
+673,Caresource Medicare Advantage,99
+674,Champva,239
+675,Cigna Supplement,16
+676,Uninsured Testing And Treatment,240
+677,First Health Limited Benefit Plan,92
+678,Geha Supplement,26
+679,Uhc Golden Rule,241
+680,Humana Ppo,230
+681,Oon Humana,230
+682,Oon Humana Community Medicare,242
+683,Humana Global,243
+684,Interrupted Stay,244
+685,Mdwise In Medicaid Hcc Hhw Hip,245
+686,Oon Medicaid Other States,246
+687,Mmo Exchange,232
+688,Mmo Supplement,232
+689,Oon Mmo St E Dayton Exchange,232
+690,Medicare Hmo Other,247
+691,Meritain Health Mn,67
+692,Nalc Secondary To Medicare,248
+693,Oon Mhs Indiana Medicaid,249
+694,Oon Medicare Other,250
+695,Optum Global,251
+696,Aaa Needs Review,252
+697,Single Case Agreement,252
+698,Other Managed Care,253
+699,Other Supplement,254
+700,Workers Compensation,255
+701,Paramount Medicare Advantage Plan,256
+702,Priority Health,257
+703,Tricare West,57
+704,Luminare Trustmark No Contract,258
+705,Trustmark,258
+706,Medica,259
+707,Uhc Student Resources,260
+708,United Behavioral Health,261
+709,Uhc Supplement,62
+710,Oon Mercy Bon Secours Umr,71
+711,Veterans Administration,262
+712,Wc Self Funded,263
+713,Wc Sheakley,264
+714,Wc Three Hab,265
+715,Wellcare Of Ky Medicaid,266
+716,Humana Medicaid Ky,267
+717,Custom Design Benefits,268
+718,Oon Devoted Health Medicare,269
+719,Communicare Medicare Plan,270
+720,Oon Molina Exchange,271
+721,Anthem Ky Medicaid,272
+722,Anthem Medicaid Ohio,273
+723,Humana Medicaid Oh,274
+724,Passport Molina Medicaid Ky,275
+725,Aetna Better Health Ky Medicaid,276
+726,Buckeye Dual Mycare,277
+727,Anthem Supplement,90
+728,Tricare East Region,57
+729,Uhc Community Ky Medicaid,235
+730,Aetna Better Health Dual Mycare,278
+731,Medical Mutual Medicare,111
+732,Molina Medicare Advantage,107
+733,Oon Oscar Buckeye State Ins,279
+734,Medical Mutual Tpa,232
+735,Western And Southern,280
+736,Molina Mycare Dual,107
+737,Buckeye Ambetter,238
+738,Uhc Surest Bind,62
+739,Cigna New Business C,16
+740,Meritain Health Tx,67
+741,Caresource Oh Marketplace,281
+742,Uhc Optum Medicare,282
+743,Oon Anthem,90
+744,Uhc All Savers,283
+745,Optum Health,284
+746,Uhc Dual,285
+747,Umr Options Ppo,71
+748,Wellcare By Alwell From Buckeye Health,286
+749,Anthem Indiana Medicaid Hip,287
+750,Medicaid Kentucky,288
+751,Amerihealth Caritas,115
+752,Va Community Care Optum,289
+753,Anthem Mediblue Medicare,91
+754,Humana Medicare,242
+755,Ky Anthem Exchange,90
+756,Golden Rule Short Term Limited,241
+757,Oon Commercial,252
+758,Uhc Medicare,282
+759,Aetna Better Health Ohio Medicaid,236
+760,Aetna Medicare Supplement,7
+761,Medben,290
+762,Wellcare Of Kentucky Medicare,291
+763,Wellcare Meridian Medicare,292
+764,Mhs Ambetter,238
+765,Medicaid Indiana,293
+766,Multiplan Phcs Limited Benefit Plan,294
+767,Aaa Practitioner Only,252
+768,Us Health Freedom Life Limited Benefit,71
+769,Sedgwick Mco,102
+770,Medigold Medicare,295
+771,Oh Uhc Exchange,62
+772,Apwu Supplement,78
+773,Tch Optimal Health,100
+774,Uhc Geha,62
+775,Aaa No Contract,252
+776,Oh Anthem Exchange,90
+777,Cigna Network Tpa,16
+778,Progressive,296
+779,Geha Aetna,26
+780,Essence Medicare,297
+781,Anthem Indiana Medicaid Hhhw Hcc,287
+782,Us Dept Of Energy,255
+783,In Anthem Exchange,90
+784,Mutual Of Omaha Supplement,44
+785,Uhc Limited Benfits,62
+786,Minute Men Mco,255
+787,Payer Compass,298
+788,Aetna Global,299
+789,Nalc Cigna,16
+790,Promedica Mco,255
+791,Physician Mutual Supplement,300
+792,Wc Corvel,301
+793,Ohio Ppo Connect,281
+794,Tchma Humana Gold Hmo,242
+795,Anthem Global,302
+796,Coe Optum Ge,303
+797,Uhc Oxford Health,62
+798,Umwa,304
+799,State Farm Mva Only,296
+800,Cdb Secondary Only,268
+801,Sheakley Uniservice,255
+802,Caresource Ky Marketplace,281
+803,Skilled Nursing Facility,305
+804,Wc Kentucky,306
+805,Wc Tch Employee,307
+806,Safe Co,296
+807,Gallagher Bassett,255
+808,Health Value Management,230
+809,Optum Ubh,62
+810,Aetna Preferred,7
+811,Blaccess,90
+812,Broadspire,255
+813,Spooner Medical Administrators,255
+814,Us Dept Of Labor,255
+815,Humana Supplement,230
+816,Occupational Health Link,255
+817,Suburban Health Unified,308
+818,Coe Optum Other,303
+819,Coe Western Southern,303
+820,Ohio Health Choice,309
+821,Lasso Medicare,310
+822,Patent Assistance,311
+823,Tricare For Life Supplement,57
+824,Oon Other Exchange Plan,281
+825,Anthem Limited Benefits,90
+826,Wc Cincinnati Bengals,312
+827,Life Synch,313
+828,Medicare A B,314
+829,Medicare A Only,314
+830,Medicare B Only,314
+831,Perennial Medicare Advantage,315
+832,Poppins Health,316
+833,Uhc Pathways In Medicaid,235
+834,Caresource In Marketplace,281
+835,Provider Network Of America,317
+836,Sagamore,318
+837,Siho,319
+838,Bccp,320
+839,Tp Cigna Lifesource Transplant,321
+840,Cigna Global,322
+841,Medicaid California,246
+842,Medicaid Florida,246
+843,Medicaid Georgia,246
+844,Medicaid Michigan,246
+845,Medicaid Montana,246
+846,Medicaid Nebraska,246
+847,Medicaid New Mexico Presbyterian Health,246
+848,Medicaid Oregon,246
+849,Medicaid Pennsylvania,246
+850,Medicaid Tennessee,246
+851,Medicaid West Virginia,246
+852,Asahmo,7
+853,Asapos,7
+854,Asappo,7
+855,Commhmo,7
+856,Commpos,7
+857,Commppo,7
+858,Mcr,7
+859,Nbhmo,7
+860,Nbpos,7
+861,Nbppo,7
+862,Oonhmo,7
+863,Oonpos,7
+864,Oonppo,7
+865,Mgmcd,323
+866,Mcr,324
+867,Dualeligible,5
+868,Mcd,5
+869,Mcdchipbh,5
+870,Bav,325
+871,Eposoa,325
+872,Hmo,325
+873,Mcrppo,325
+874,Mgmcr,325
+875,Mgmcrhmo,325
+876,Mybluehealth,325
+877,Ppo,325
+878,Tricare,326
+879,Csn,16
+880,Openaccessplus,16
+881,Ppo,16
+882,Mcrhmo,327
+883,Mcrppo,327
+884,Mcrsnp,327
+885,Mmp,327
+886,Pffs,327
+887,Hix,328
+888,Chip,329
+889,Chipperinatal,329
+890,Star,329
+891,Star Plus,329
+892,Workerscomp,330
+893,Mgmcr,331
+894,Gvt,332
+895,Narrownetwork,28
+896,Mcd,30
+897,Medicareadvantagehmo,30
+898,Medicareadvantageppopffs,30
+899,Tricare,333
+900,Mcr,334
+901,Localgov,335
+902,Mgmcr,336
+903,Chip,337
+904,Hix,337
+905,Star,337
+906,Starkids,337
+907,Starplus,337
+908,Workerscomp,338
+909,Broad,48
+910,Mgmcr,48
+911,Narrow,48
+912,Mgmcr,339
+913,Mcrhmo,340
+914,Pffs,340
+915,Pos,340
+916,Ppo,340
+917,Snp,340
+918,Mgmcr,341
+919,Epo,342
+920,Hmo,342
+921,Valuehmo,342
+922,Dualeligible,343
+923,Mcrhmo,343
+924,Mcrpos,343
+925,Mcrppo,343
+926,Mcrsnp,343
+927,Pffs,343
+928,Star,344
+929,Starkids,344
+930,Mcd,345
+931,Veterans,346
+932,Mcr,347
+933,Mcr,348
+934,Mcr,349
+935,Mcr,350
+936,Mcrhmo,65
+937,Pffs,65
+938,Pos,65
+939,Ppo,65
+940,Snp,65
+941,Mgmcr,351
+942,Mcr,352
+943,Mcr,353
+944,Premier,354
+945,Premierplus,354
+946,Texascustomuc,354
+947,Broadnetwork,355
+948,Mgmcr,356
+949,Hmo,30
+950,Ppo,30
+951,Chip,343
+952,Chpfc,343
+953,Star,343
+954,Starkids,343
+955,Starplus,343
+956,Allpayerappendix,347
+957,Narrownetworkindivexchange,347
+958,Nationalaccount,347
+959,Smallgroup,347
+960,Ers Kelsey Mp Outpatient,357
+961,Mp,357
+962,Harris County Ees Outpatient,16
+963,Local Plus Surefit Outpatient,16
+964,Medicaid,358
+965,Commercial,359
+966,Commercial Inpatient,360
+967,Commercial Inpatient,361
+968,Commercial Outpatient,361
+969,Commercial Outpatient,362
+970,Commercial,363
+971,Ppo,364
+972,Commercial,365
+973,Hmo Ppo Pos Outpatient,30
+974,Commercial Outpatient,31
+975,Ppo Epo Pos,49
+976,Savility,49
+977,Chip Inpatient,366
+1122,Commercial Transplant,16
+1123,Commercial Ppo,219
+1124,Commercial All Plans,92
+1125,Commercial Ppo,29
+1126,Commercial Transplant,30
+1127,Commercial Transplant,409
+1128,Commercial Ppo,410
+1129,Commercial All Plans,43
+1130,Commercial All Plans,411
+1131,Medicaid Chip,357
+1132,Medicaid Hmo,357
+1133,Medicaid Hmo,412
+1134,Medicaid Chip,413
+1135,Commercial Hmo,414
+1136,Commercial Exchange,7
+1137,Commercial Hmo,7
+1138,Commercial Ppo,7
+1139,Commercial Transplant,7
+1140,Commercial Blue Premier,415
+1141,Commercial Exchange,415
+1142,Commercial Hmo,415
+1143,Commercial Myblue Health Exchange,415
+1144,Commercial Ppo,415
+1145,Commercial Transplant,321
+1146,Commercial Hmo,16
+1147,Commercial Ppo,16
+1148,Commercial Surefit,16
+1149,Commercial Hmo,30
+1150,Commercial Ppo,30
+1151,Commercial All Plans,35
+1152,Commercial Exchange,347
+1153,Commercial Hmo,347
+1154,Commercial Optum,347
+1155,Commercial Ppo,347
+1156,Medicaid Star,416
+1157,Medicare All Plans,416
+1158,Medicaid Starkids,366
+1159,Medicaid Starplus,417
+1160,Commercial All Plans,418
+1161,Commercial All Other Plans,16
+1162,Commercial Exchange,328
+1163,Commercial All Plans,359
+1164,Commercial Exchange,35
+1165,Commercial All Plans,419
+1166,Commercial All Plans,420
+1167,Commercial All Plans,343
+1168,Medicare All Plans,7
+1169,Medicare All Plans,421
+1170,Medicare All Plans,325
+1171,Medicare Hmo,327
+1172,Medicare Ppo,327
+1173,Medicare All Plans,422
+1174,Medicare All Other Plans,30
+1175,Medicare Transplant,30
+1176,Medicare All Plans,423
+1177,Medicare All Plans,424
+1178,Medicare All Plans,336
+1179,Medicare All Plans,425
+1180,Medicare All Plans,426
+1181,Commercial All Plans,427
+1182,Medicaid All Other Plans,5
+1183,Medicaid Chip,5
+1184,Medicaid Starkids,5
+1185,Medicaid All Other Plans,325
+1186,Medicaid All Other Plans,357
+1187,Medicaid All Other Plans,336
+1188,Medicaid Chip,336
+1189,Medicaid Chip,417
+1190,Medicaid Starkids,417
+1191,Commercial All Plans,428
+1192,Commercial Ppo,429
+1193,Commercial All Plans,49
+1194,Commercial Ap3 Ppo,29
+1195,Commercial All Other Plans,35
+1196,Medicaid All Other Plans,366
+1197,Commercial All Other Plans,328
+1198,Commercial Ppo,430
+1199,AXAAssistance,431
+1200,CommunityHealthChoiceHMOxERS,328
+1201,TexasPlusSelectCareofTX,432
+1202,BCBSMedicare,433
+1204,CIGNAPPO,16
+1205,Evercare,435
+1206,EHNEmployeeHealthNetwork,21
+1207,UHCNexus,62
+1208,USDOLWC,436
+1209,BCBSTraditionalIndemnityHouston,433
+1210,OscarHIXChoiceNetwork,437
+1211,HumanaHMOx,30
+1212,BravoHealth,438
+1213,CIGNAHMO,16
+1214,TexasWC,439
+1215,HumanaHMO,30
+1216,MontgomeryCountyIndigentCarePlan,440
+1217,MHealthMHPMHU,441
+1218,TexasChildrensHealthPlanMCD,442
+1219,UHCMME,62
+1220,AetnaPOSEPO,7
+1221,BCBSPPO,433
+1222,AetnaWalmartACO,7
+1223,AetnaQHP,7
+1224,UHC,62
+1225,AetnaPPO,7
+1226,AetnaHMO,7
+1227,MHealthMCRADV,441
+1228,FirstHealthCoventry,443
+1229,BCBSHMO,433
+1230,UHCCompass,62
+1231,AMBETTERHIX,444
+1232,CareImprovementPlus,445
+1233,Medicare,446
+1234,CommunityHealthChoiceStarMCD,328
+1235,CommercialNonContracted,447
+1236,BCBSBAV,433
+1237,CignaHealthSpringRenaissanceIPA,327
+1238,AetnaWholeHealth,7
+1239,MolinaHIX,448
+1240,MedicaidTexas,449
+1241,CommunityHealthChoiceHMOx,328
+1242,PHCS,49
+1243,HealthcareHighwaysCommSyncLogix,28
+1246,Commercial Ppo,451
+1247,Commercial All Other Plans,49
+1248,Medicaid Lakeside,366
+1249,Commercial All Plans,444
+1250,Commercial Ers,452
+1251,Medicare Medicare,336
+1252,Ppo,433
+1253,Commercial All Plans,453
+1254,Advantage Hmo,274
+1255,Commercial Kelseycare,7
+1256,Advantage Ppo,274
+1257,Commercial Blue Advantage Exchange,415
+1258,Hmo,433
+1259,Commercial Ppo Trad,415
+1260,Hmo,114
+1261,Commercial Premier,415
+1262,Hmo,421
+1263,Commercial Ap,29
+1264,Oh Ppo,447
+1265,Commercial Transplant,455
+1266,Ppo,447
+1267,Commercial Transplant,415
+1268,Hmo,240
+1269,Commercial All Plans,328
+1270,Hmo,52
+1271,Medicare All Other Plans,7
+1272,Hmo,118
+1273,Medicare Transplant,7
+1274,Hmo,322
+1275,Medicare All Plans,30
+1276,Ppo,454
+1277,Commercial Ppo,49
+1278,Hmo,285
+1279,Choice Ppo Medicare,419
+1280,Gold Plus Hmo,419
+1281,Hmo,219
+1282,Advantage Choice Hmo,279
+1283,Ppo,279
+1284,Hmo,340
+1285,Hmo,228
+1286,Hmo,452
+1287,Hmo,301
+1288,Ppo,449
+1289,Hmo,430
+1290,Ppo,221
+1291,Hmo,221

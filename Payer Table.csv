@@ -1,0 +1,335 @@
+PayerID,PayerName
+1,Degree Benefits Tshbp
+2,Aarp
+3,Aflac
+4,Ag Administrators
+5,Amerigroup
+6,Advantra Freedom
+7,Aetna
+8,American National
+9,Assurant Health
+10,Bcbs Of Texas
+11,Bankers Life Casualty
+12,Beech Street
+13,Boon Group
+14,Caresource Health
+15,Central States Fund
+16,Cigna
+17,Continental General Insurance Co
+18,Continental General Mcr Supp
+19,Coresource
+20,Coventry Healthcare
+21,Employers Health Network
+22,Fairos Occunet
+23,Friday Health Plans
+24,Federated Insurance Company
+25,Fidelis Secure Care
+26,Geha
+27,Golden Rule Insurance
+28,Healthcare Highways
+29,Healthsmart
+30,Humana
+31,Imagine Health
+32,John Alden
+33,Kelsey Seybold Pgt
+34,Kaiser
+35,Kelseycare
+36,Loa Non Contracted
+37,Memorial Hermann Solutions
+38,Magellan Behavioral Health
+39,Managed Health Network
+40,Managed Medicare
+41,Mega Life
+42,Molina Healthcare Of Texas
+43,Multiplan
+44,Mutual Of Omaha
+45,National Assoc Of Letter Carriers Nalc
+46,Non Contracted
+47,Occunet
+48,Oscar
+49,Phcs
+50,Pan American Life
+51,Physicians Mutual
+52,Principal Financial Group
+53,Scott White Health Plan
+54,Standard Life
+55,State Farm
+56,Three Rivers Health Plan
+57,Tricare
+58,Trustmark Insurance
+59,Umr
+60,Usaa Life Insurance
+61,Unicare
+62,United Healthcare
+63,Wellpoint
+64,Washington National
+65,Wellcare
+66,Medical Mutual Of Ohio
+67,Meritain Health
+68,Nalc National Association Of Letter Carriers
+69,Ohio Ppo Connect
+70,United Health Care
+71,United Medical Resources
+72,Beh Optumhealth Behavioral Solutions
+73,Caresource
+74,Commercial Other
+75,Medicaid Indiana Anthem
+76,Uhcamer Med Secall Savers
+77,United Medical Resources Or United Health Care
+78,Apwu
+79,Cdb Mmo
+80,Mdwise Healthy Indiana Plan
+81,Mdwise Hoosier Healthwise
+82,Medicaid Indy Mngd Hlth Svcs
+83,Cdb Custom Design Benefits
+84,Med Ben
+85,Buckeye Medicaid
+86,Advantage Buckeye
+87,Uhc Medicaid
+88,Cs Justme
+89,Aetna Medicaid
+90,Anthem
+91,Anthem Medicare
+92,First Health
+93,Other Medicare Replacement
+94,Va Ccn Optum
+95,Wc Self Insured
+96,Wc Us Dept Of Labor
+97,Aetna Medicare
+98,Ambetter Buckeye Commercial
+99,Caresource Medicare
+100,Key Benefit Administrators
+101,Medigold
+102,Wc Sedgwick
+103,Wc Three Hab Plus
+104,Cigna Medicare
+105,Medicaid Kentucky Anthem
+106,Medicaid Kentucky Passport
+107,Molina Medicare
+108,Wc Promedica Medical Management
+109,Essence Healthcare
+110,Medicaid Kentucky Wellcare
+111,Medical Mutual Medicare
+112,Molina Marketplace
+113,Wc Charles Taylor Tpa
+114,Wc Sheakley Unicare
+115,Amerihealth Caritas
+116,Molina Medicaid
+117,Paramount
+118,Humana Medicaid
+185,Blue Cross Blue Shield
+186,Coventry
+187,Verity
+188,Private Health
+189,La Womens Healthcare
+190,Webtpa
+191,Ppo Plus
+192,Gilsbar
+193,Vantage
+194,Fmolhs Employees
+195,Meritain
+207,Blue Cross Blue Shield
+208,Coventry
+209,Verity
+210,Private Health
+211,La Womens Healthcare
+212,Webtpa
+213,Ppo Plus
+214,Gilsbar
+215,Vantage
+216,Fmolhs Employees
+217,Meritain
+218,Blue Cross Blue Shield
+219,Coventry
+220,Verity
+221,Private Health
+222,La Womens Healthcare
+223,Webtpa
+224,Ppo Plus
+225,Gilsbar
+226,Vantage
+227,Fmolhs Employees
+228,Meritain
+229,Buckeye Community Health
+230,Humana Health Care
+231,Medicaid Ohio
+232,Medical Mutual
+233,Paramount Care
+234,Tch Employee Anthem
+235,Uhc Community Medicaid
+236,Aetna Better Health Ohio Medicaid
+237,Allied Benefits
+238,Buckeye Ambetter
+239,Champva
+240,Covid Hrsa Uninsured Testing And Treatment Fund
+241,Golden Rule
+242,Humana Medicare
+243,Humana Transplant
+244,Interrupted Stay
+245,Mdwise Indiana Medicaid
+246,Medicaid Other States
+247,Medicare Hmo Other
+248,Nalc
+249,Oon Indiana Medicaid
+250,Oon Medicare
+251,Optum Transplant
+252,Other
+253,Other Managed Care
+254,Other Supplement
+255,Other Workers Compensation
+256,Paramount Medicare Advantage
+257,Priority Health
+258,Trustmark
+259,Uhc Medica
+260,Uhc Student Resources
+261,United Behavioral Health
+262,Veterans Administration
+263,Wc Self
+264,Wc Sheakley Unicomp
+265,Wc Three Hab
+266,Wellcare Of Kentucky
+267,Humana Medicaid Ky
+268,Custom Design Benefits True Cost
+269,Devoted Health Plans Oon
+270,Communicare Medicare
+271,Oon Molina Exchange
+272,Anthem Medicaid Kentucky
+273,Anthem Medicaid Ohio
+274,Humana Medicaid Oh
+275,Kentucky Passport Molina
+276,Aetna Better Health Of Kentucky Medicaid
+277,Buckeye Mycare Dual
+278,Aetna Better Health Dual
+279,Oon Oscar
+280,Western And Southern
+281,Other Exchange Plan
+282,Uhc Medicare
+283,Uhc All Savers
+284,Optum Health
+285,Uhc Community Health Dual
+286,Buckeye Medicare
+287,Anthem Medicaid Indiana
+288,Medicaid Kentucky
+289,Optum Va
+290,Medben
+291,Wellcare Ky Medicare
+292,Wellcare Medicare Meridian
+293,Medicaid Indiana
+294,Multiplan Phcs
+295,Medigold Ppo
+296,Auto Liab
+297,Essence Medicare
+298,Payer Compass Acs
+299,Aetna Transplant
+300,Physician Mutual
+301,Wc Corvel
+302,Anthem Transplant
+303,Center Of Excellence
+304,Umwa
+305,Skilled Nursing Facility
+306,Wc Kentucky
+307,Wc Tch Employee
+308,Suburban Health
+309,Ohio Health Choice
+310,Medicare Pffs Other
+311,Patient Assistance Program
+312,Wc Cincinnati Bengals
+313,Life Synch
+314,Medicare
+315,Perennial
+316,Poppins Health
+317,Pnoa
+318,Sagamore Health Network
+319,Siho
+320,Bccp
+321,Cigna Lifesource
+322,Cigna Transplant
+323,Aetna Better Health
+324,American Health Plan
+325,Bcbs
+326,Christus Usfhp
+327,Cigna Healthspring
+328,Community Health Choice
+329,Community Health Choice Mcd
+330,Corvel Corporation
+331,Devoted Health
+332,Geo Group Joe Corley Detention Facility
+333,Humana Military
+334,Integranet Amerigroup Ipa
+335,Liberty County Indigent
+336,Molina
+337,Molina Healthcare
+338,Omni Healthcare
+339,Procare Advantage
+340,Provider Partners Health Plan Of Texas
+341,Shared Health
+342,Superior
+343,Superior Health Plan
+344,Texas Childrens Healthplans
+345,Texas Health Network
+346,Triwest Healthcare Alliance
+347,United
+348,Universal Healthcare Group
+349,Van Lang Ipa
+350,Verda Health Plan
+351,Wellmed
+352,Imperial Insurance Co
+353,Kelsey Seybold
+354,Texas Athletic Network
+355,Evry Health
+356,Fidelis Securecare Of Tx
+357,Chc
+358,Community First Health Plan
+359,Entrust
+360,First Care
+361,First Health Network
+362,Friday Health
+363,Galaxy Health Network
+364,Health Payors Organization
+365,Healthsmart Preferred
+366,Tchp
+409,Interlink
+410,Mhealth Network
+411,Usa Health Network
+412,Tchpchip
+413,Texastruechoice
+414,Aetna Kelsey Care
+415,Bcbs Tx
+416,Optum
+417,Uhc
+418,Bright Health
+419,Nxhealth
+420,Renaissance
+421,Amerivantage
+422,Devoted
+423,Kelsey
+424,Kindred
+425,Selectcare
+426,Uhc Securehorizons
+427,Montgomery Hospital District
+428,Independent Med System
+429,Phcs Savility
+430,Nx Health
+431,Axa Assistance Usa
+432,Texas Plus Selectcare Of Tx
+433,Blue Cross Blue Shield Of Texas
+435,Evercare
+436,Us Department Of Labor
+437,Oscar Health
+438,Bravo Health
+439,Texas Wc
+440,Montgomery County Indigent Care Plan
+441,Mhealth
+442,Texas Childrens Health Plan
+443,First Health Coventry
+444,Ambetter
+445,Care Improvement
+446,Medicare Tx
+447,Commercial Non Contracted
+448,Molina Healthcare Of Texas Claims Only
+449,Medicaid Tx
+451,Employer Direct
+452,Harris Health
+453,Shell
+454,Degree Benefits
+455,Tch
